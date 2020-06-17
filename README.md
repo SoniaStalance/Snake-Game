@@ -1,5 +1,5 @@
 # Read me
-* Simple snake game witten in Python using PyGame library. 
+* Simple snake game written in Python using PyGame library. 
 
 # Requirements
 * Python 3.4.x or higher
