@@ -4,6 +4,7 @@ import time
 import random
 import pathlib
 
+# initialize all imported pygame modules
 pygame.init()
 
 startgame=pygame.mixer.Sound('startgame.wav')
